@@ -7,7 +7,7 @@
 ## Overview
 
 This project sets up a robust cloud infrastructure on AWS using **Terraform** and provisions **Jenkins** on an EC2 instance. With a focus on automation, scalability, and security, the infrastructure leverages VPCs, security groups, and load balancing to ensure a high-availability setup. Jenkins is deployed using a Terraform module, with an automated install script, ready to streamline your CI/CD processes.
-
+'''
 ┌─────────────────────────────────────────────────────────────────────┐
 │                            AWS Cloud (VPC)                          │
 │                              CIDR: 11.0.0.0/16                      │
@@ -45,6 +45,7 @@ This project sets up a robust cloud infrastructure on AWS using **Terraform** an
 │ |           Route53 DNS (jenkins.sillygully.org)               |    │
 │ +--------------------------------------------------------------+    │
 └─────────────────────────────────────────────────────────────────────┘
+'''
 
 ## Key Features
 
