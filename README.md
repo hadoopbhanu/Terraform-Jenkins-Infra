@@ -1,6 +1,9 @@
 
 # AWS Terraform Jenkins Infrastructure (jenkins.sillygully.org)
 
+<img width="1440" alt="Screenshot 2024-10-22 at 3 17 27 AM" src="https://github.com/user-attachments/assets/5f117195-68a5-4bfe-b53f-ad38678b6d31">
+
+
 ## Overview
 
 This project sets up a robust cloud infrastructure on AWS using **Terraform** and provisions **Jenkins** on an EC2 instance. With a focus on automation, scalability, and security, the infrastructure leverages VPCs, security groups, and load balancing to ensure a high-availability setup. Jenkins is deployed using a Terraform module, with an automated install script, ready to streamline your CI/CD processes.
