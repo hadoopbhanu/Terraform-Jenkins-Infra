@@ -1,4 +1,4 @@
 provider "aws" {
   region = "us-west-2"
-  # Access Key are passed through local ENV variable
+  # Access Keys are passed through local ENV variable
 }
